@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="251" height="225" viewBox="0 0 251 225">
+  <g id="그룹_2294" data-name="그룹 2294" transform="translate(-472 -697)">
+    <g id="사각형_1187" data-name="사각형 1187" transform="translate(472 697)" fill="#fff" stroke="#5cb6f2" stroke-width="1">
+      <path d="M5,0H246a5,5,0,0,1,5,5V225a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" stroke="none"/>
+      <path d="M5,.5H246A4.5,4.5,0,0,1,250.5,5V224a.5.5,0,0,1-.5.5H1a.5.5,0,0,1-.5-.5V5A4.5,4.5,0,0,1,5,.5Z" fill="none"/>
+    </g>
+    <path id="사각형_1189" data-name="사각형 1189" d="M5,0H246a5,5,0,0,1,5,5V45a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" transform="translate(472 697)" fill="#5cb6f2"/>
+    <text id="당일도착" transform="translate(558 729)" fill="#fff" font-size="23" font-family="Pretendard-Bold, Pretendard" font-weight="700"><tspan x="0" y="0">당일도착</tspan></text>
+    <text id="주문시간" transform="translate(563 793)" fill="#717171" font-size="20" font-family="Pretendard-Medium, Pretendard" font-weight="500"><tspan x="0" y="0">주문시간</tspan></text>
+    <text id="평일_11시_전_" data-name="평일 11시 전 " transform="translate(547 837)" fill="#333" font-size="20" font-family="Pretendard-Bold, Pretendard" font-weight="700"><tspan x="0" y="0">평일 11시 전 </tspan></text>
+    <text id="_수도권_" data-name="(수도권)" transform="translate(565 866)" fill="#333" font-size="20" font-family="Pretendard-Medium, Pretendard" font-weight="500"><tspan x="0" y="0">(수도권)</tspan></text>
+  </g>
+</svg>

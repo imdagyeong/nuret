@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="251" height="225" viewBox="0 0 251 225">
+  <g id="그룹_2296" data-name="그룹 2296" transform="translate(-1198 -697)">
+    <g id="사각형_1187" data-name="사각형 1187" transform="translate(1198 697)" fill="#fff" stroke="#5cb6f2" stroke-width="1">
+      <path d="M5,0H246a5,5,0,0,1,5,5V225a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" stroke="none"/>
+      <path d="M5,.5H246A4.5,4.5,0,0,1,250.5,5V224a.5.5,0,0,1-.5.5H1a.5.5,0,0,1-.5-.5V5A4.5,4.5,0,0,1,5,.5Z" fill="none"/>
+    </g>
+    <path id="사각형_1191" data-name="사각형 1191" d="M5,0H246a5,5,0,0,1,5,5V45a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" transform="translate(1198 697)" fill="#5cb6f2"/>
+    <text id="내일도착" transform="translate(1284 729)" fill="#fff" font-size="23" font-family="Pretendard-Bold, Pretendard" font-weight="700"><tspan x="0" y="0">내일도착</tspan></text>
+    <g id="그룹_2292" data-name="그룹 2292" transform="translate(-73)">
+      <text id="주문시간" transform="translate(1362 793)" fill="#717171" font-size="20" font-family="Pretendard-Medium, Pretendard" font-weight="500"><tspan x="0" y="0">주문시간</tspan></text>
+      <text id="평일_24시_전_" data-name="평일 24시 전 " transform="translate(1343 837)" fill="#333" font-size="20" font-family="Pretendard-Bold, Pretendard" font-weight="700"><tspan x="0" y="0">평일 24시 전 </tspan></text>
+      <text id="_신간_제주지역_제외_전_지역_" data-name="(신간, 제주지역 제외 전 지역)" transform="translate(1282 866)" fill="#333" font-size="20" font-family="Pretendard-Medium, Pretendard" font-weight="500"><tspan x="0" y="0">(신간, 제주지역 제외 전 지역)</tspan></text>
+    </g>
+  </g>
+</svg>
